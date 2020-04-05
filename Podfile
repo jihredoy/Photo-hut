@@ -21,3 +21,4 @@ target 'photo-hut-admin' do
   use_frameworks!
   shared_pods
 end
+
