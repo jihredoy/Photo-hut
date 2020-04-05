@@ -68,20 +68,6 @@ class RegisterVC: UIViewController {
         
         activityIndicator.startAnimating()
         
-        //        Auth.auth().createUser(withEmail: email, password: password) { (result, error) in
-        //            if let error = error {
-        //                debugPrint(error)
-        //                Auth.auth().handleFireAuthError(error: error, vc: self)
-        //                return
-        //            }
-        //
-        //            guard let firUser = result?.user else { return }
-        //            let artUser = User.init(id: firUser.uid, email: email, username: username, stripeId: "")
-        //            // Upload to Firestore
-        //            self.createFirestoreUser(user: artUser)
-        //        }
-        
-        
         guard let authUser = Auth.auth().currentUser else {
             return
         }
