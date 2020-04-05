@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>620082478533-89k22rhon25a9a40oldsau32f06rv08v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.620082478533-89k22rhon25a9a40oldsau32f06rv08v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcb6tW2f41Asyjkp6IEoTOi0Igi0OKV9A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>620082478533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hredoy.photo-hut-admin</string>
+	<key>PROJECT_ID</key>
+	<string>photo-hut-4678f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-hut-4678f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:620082478533:ios:747a1824b2acaeb237dfac</string>
+	<key>DATABASE_URL</key>
+	<string>https://photo-hut-4678f.firebaseio.com</string>
+</dict>
+</plist>
