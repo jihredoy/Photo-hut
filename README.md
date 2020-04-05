@@ -1,2 +1,2 @@
 # photo-hut
-devoloped by eity & hredoy
+devoloped by @eitysams & @jihredoy
