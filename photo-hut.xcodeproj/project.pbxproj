@@ -5,7 +5,6 @@
 	};
 	objectVersion = 50;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		642B7B5B243996D700447F27 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 642B7B5A243996D700447F27 /* GoogleService-Info.plist */; };
 		642B7B5D2439970000447F27 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 642B7B5C243996FF00447F27 /* GoogleService-Info.plist */; };
