@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>184062051188-el1o1gih1m6077cp0c3nv64lea3td4qm.apps.googleusercontent.com</string>
+	<string>620082478533-pb2c36cictb3bsvmqqv5anl83p22eul9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.184062051188-el1o1gih1m6077cp0c3nv64lea3td4qm</string>
+	<string>com.googleusercontent.apps.620082478533-pb2c36cictb3bsvmqqv5anl83p22eul9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBTM2zWwbKFpB8MGI2Q87mrzleNRKnY6F4</string>
+	<string>AIzaSyAcb6tW2f41Asyjkp6IEoTOi0Igi0OKV9A</string>
 	<key>GCM_SENDER_ID</key>
-	<string>184062051188</string>
+	<string>620082478533</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.hredoy.Photo-hut</string>
+	<string>hredoy.photo-hut</string>
 	<key>PROJECT_ID</key>
-	<string>photo-hut-395c5</string>
+	<string>photo-hut-4678f</string>
 	<key>STORAGE_BUCKET</key>
-	<string>photo-hut-395c5.appspot.com</string>
+	<string>photo-hut-4678f.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:184062051188:ios:9ae30225d1572728d06221</string>
+	<string>1:620082478533:ios:41d7e3108299fb0d37dfac</string>
 	<key>DATABASE_URL</key>
-	<string>https://photo-hut-395c5.firebaseio.com</string>
+	<string>https://photo-hut-4678f.firebaseio.com</string>
 </dict>
 </plist>
